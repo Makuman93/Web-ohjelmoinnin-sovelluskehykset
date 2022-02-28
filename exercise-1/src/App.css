@@ -1,0 +1,228 @@
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  background-color: aliceblue;
+  
+}
+.header {
+  overflow: hidden;
+  background-color: rgb(0, 0, 90);
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+}
+
+.Isotitle {
+  float: left;
+  padding-left: 20%;
+  display: block;
+  color: white;
+  text-align: center;
+  padding-top:20px ;
+  padding-bottom: 20px;
+  text-decoration: none;
+  font-size: xx-large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.pienititle {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding-top:30px;
+  padding-left:70px ;
+  text-decoration: none;
+  
+}
+.pienititle a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+
+.main {
+  float: left;
+  width: 40.66%;
+  background-color: rgb(255, 255, 238);
+  margin-top: 20px;
+  height: 1000px;
+  margin-left: 20%;
+  margin-right: 5px;
+  padding-left: 20px;
+  padding-top: 10px;
+  box-shadow: 
+  inset 0px 11px 8px -10px rgb(0, 0, 0),
+  inset 0px -11px 8px -10px rgb(0, 0, 0); 
+
+}
+  
+.side {
+  float: right;
+  width: 16.33%;
+  background-color: rgb(255, 255, 238);
+  margin-top: 20px;
+  height: 1000px;
+  margin-right: 20%;
+  padding-right: 20px;
+  text-align-last: left;
+  text-align:left;
+  box-shadow: 
+  inset 0px 11px 8px -10px rgb(0, 0, 0),
+  inset 0px -11px 8px -10px rgb(0, 0, 0); 
+}
+
+.lista{
+  list-style-type:decimal;
+  font-size: 20px; 
+  margin: 0 0 10px 0;
+  margin-bottom: 20px; 
+}
+
+li::marker {
+  color: rgb(128, 128, 255);
+  font-size: 30px;
+
+}
+li {
+  margin: 0 0 50px 0;
+}
+
+.Uutiset {
+
+  color: white;
+  text-align: left;
+  background-color:rgb(0, 133, 133);
+  text-decoration: none;
+  font-size: large;
+  background-position: center;
+  border: 30px;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.Uutiset h3 {
+  display: inline;
+}
+
+.Uutiset a {
+  display: inline;
+}
+
+.Uutiset1 {
+
+  color: white;
+  text-align: left;
+  background-color:rgb(0, 133, 133);
+  text-decoration: none;
+  font-size: large;
+  background-position: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 2px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.Uutiset1 h3 {
+  display: inline;
+}
+
+.Uutiset1 a{
+  display: inline;
+}
+
+.Uutiset2 {
+  
+  color: white;
+  text-align: left;
+  background-color:rgb(0, 202, 202);
+  text-decoration: none;
+  font-size: large;
+  background-position: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 2px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.Uutiset2 h3 {
+  display: inline;
+}
+
+.Uutiset2 a{
+  display: inline;
+}
+
+
+.blue{
+  color: blue;
+  display: inline;
+}
+
+.main h2 {
+  display: inline;
+}
+
+
+.ympyrä {
+  
+  background: rgb(253, 136, 136);
+  border-radius: 50%;
+  height: 20px;
+  width: 20px;
+  margin: 0;
+  display: inline-block;
+}
+
+.red{
+  color:rgb(161, 0, 0);
+  display: inline-block;
+}
+
+.side p {
+  display: inline;
+}
+
+.side h4 {
+  display: inline;
+}
+
+
+
+
+/*.Otsikko {
+  
+  
+  display:inline;
+  padding: 30px;
+  background-color:rgb(0, 133, 133);
+}
+.Uutinen {
+  
+  
+  padding: 30px 5px;
+  display:inline;
+  background-color:rgb(0, 133, 133);
+}*/
+.Mainos {
+
+}
+.fakeimg {
+  background-color: rgb(143, 23, 23);
+  width: 500px;
+  padding: 250px;
+  margin-top: 10px;
+}
+
+
+
+
+
